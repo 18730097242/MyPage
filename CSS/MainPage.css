@@ -38,7 +38,7 @@
         button {
             height: 42px;
             width: 42px;
-            cursor: pointer;
+/*             cursor: pointer; */
             position: absolute;
         }
         h1{
