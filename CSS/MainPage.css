@@ -38,8 +38,8 @@
         button {
             height: 42px;
             width: 42px;
-/*             cursor: pointer;
-            position: absolute; */
+            cursor: pointer;
+            position: absolute;
         }
         h1{
         	color: #DDDDDD;
